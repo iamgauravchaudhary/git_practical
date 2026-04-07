@@ -1,2 +1,3 @@
 Change from master branch
 Change from conflict branch
+Change from cloned repo
